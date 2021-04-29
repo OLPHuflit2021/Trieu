@@ -5,7 +5,7 @@ int n,k;
 bool check[80000+1];
 int main()
 {
-  
+    freopen("MASO.INP.txt","r",stdin);
     cin>>n>>k;
     for(int i=1;i<=n;i++){
         int x;
