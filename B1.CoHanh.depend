@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1619081460 source:d:\olmpia\bt-olm\b1.cohanh\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
